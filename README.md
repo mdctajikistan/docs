@@ -1,2 +1,1 @@
-# docs
-Documents Microsoft Developers Community Tajikistan
+# Microsoft Developers Community Tajikistan
