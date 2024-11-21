@@ -1,4 +1,8 @@
-# 🇹🇯 Microsoft Developers Community in Tajikistan
+---
+icon: house-chimney-window
+---
+
+# Microsoft Developers Community in Tajikistan
 
 **Шумо як қисми тағйирот шуда метавонед!**
 

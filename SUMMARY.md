@@ -1,13 +1,14 @@
 # Table of contents
 
-* [🇹🇯 Microsoft Developers Community in Tajikistan](README.md)
+* [Microsoft Developers Community in Tajikistan](README.md)
 * [.NET/C#](.net-c/README.md)
   * [.NET ба хуш омадед!](.net-c/.net-ba-khush-omaded.md)
   * [Асосҳои .NET](.net-c/asos-oi-.net/README.md)
     * [MSIL](.net-c/asos-oi-.net/msil.md)
     * [Memory Menegment](.net-c/asos-oi-.net/memory-menegment/README.md)
-      * [CLR (Common Language Runtime)](.net-c/asos-oi-.net/memory-menegment/clr-common-language-runtime.md)
+      * [Stack & Head](.net-c/asos-oi-.net/memory-menegment/stack-and-head.md)
     * [BCL (Base Class Library)](.net-c/asos-oi-.net/bcl-base-class-library.md)
+    * [CLR (Common Language Runtime)](.net-c/asos-oi-.net/clr-common-language-runtime.md)
   * [Basics](.net-c/basics/README.md)
     * [Starter (Beginner)](.net-c/basics/starter-beginner.md)
     * [Essential (Ҳатмй)](.net-c/basics/essential-atmi.md)
