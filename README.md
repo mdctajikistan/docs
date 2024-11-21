@@ -45,10 +45,8 @@ icon: house-chimney-window
 * Қисмгирӣ дар семинарҳо.
 * Лоиҳаҳои дастҷамъии кушода(open-source).
 * Курсҳои махсус барои омӯзиши барномасозии Web Application, Mobile Application,Desktop Application, Cloud Services ва Telegram Bot.
-*
-*
 
-    <figure><img src=".gitbook/assets/newcollection.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/newcollection.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
