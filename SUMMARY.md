@@ -1,4 +1,4 @@
-# .NET Documentions
+# Table of contents
 
 * [Microsoft Developers Community in Tajikistan](README.md)
 * [.NET/C#](.net-c/README.md)
@@ -18,3 +18,6 @@
   * [PostgreSQL](database-bazai-doda-o/postgresql.md)
   * [My SQL](database-bazai-doda-o/my-sql.md)
   * [MongoDB](database-bazai-doda-o/mongodb.md)
+* [Roadmap](roadmap/README.md)
+  * [Roadmap барои .NET барномасозон](roadmap/roadmap-baroi-.net-barnomasozon.md)
+  * [Roadmap барои Azure барномасозон](roadmap/roadmap-baroi-azure-barnomasozon.md)
