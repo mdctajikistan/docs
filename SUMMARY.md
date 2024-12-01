@@ -4,7 +4,7 @@
 * [.NET/C#](.net-c/README.md)
   * [.NET ба хуш омадед!](.net-c/.net-ba-khush-omaded.md)
   * [Асосҳои .NET](.net-c/asos-oi-.net/README.md)
-    * [MSIL](.net-c/asos-oi-.net/msil.md)
+    * [MSIL (Microsoft Intermediate Language)](.net-c/asos-oi-.net/msil.md)
     * [Memory Menegment](.net-c/asos-oi-.net/memory-menegment/README.md)
       * [Stack & Head](.net-c/asos-oi-.net/memory-menegment/stack-and-head.md)
     * [BCL (Base Class Library)](.net-c/asos-oi-.net/bcl-base-class-library.md)
